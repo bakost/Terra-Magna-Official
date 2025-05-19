@@ -3,11 +3,13 @@
 Официальный бот Discord-Py Военно-политической игры Terra Magna, проработавший с 30 марта 2022 года по 8 октября 2024 года (блокировка дискорда в РФ)
 
 Первый сезон: https://docs.google.com/spreadsheets/d/1ctl0Oql6MWCn_AP5mmzogz6L7gg0hx__Ptuo2pJA7vI/
+
 Второй сезон: https://docs.google.com/spreadsheets/d/1-zvDt_RDBdpl4Zolwe64EUQDtXTNm-WU_wWJD-CSno8/
+
 Третий сезон: https://docs.google.com/spreadsheets/d/1ROCJiTl_Uv8qzG1wN_UHKV3pN0JQrn8N_IoE8wfnarQ/
 
     Существующие команды бота Terra Magna | ВПИ:
-    
+
     help - выводит сообщение помощи
     balance, cash, bal, money - выводит Ваш баланс
     building - строит в определенном городе постройку (можно строить в чужих городах в RP-ситуациях)
